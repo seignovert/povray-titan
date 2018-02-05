@@ -13,7 +13,6 @@
 #local Haze_bot   =           300; // Titan bottom main haze layer [km]
 #local Haze_top   =           350; // Titan top    main haze layer [km]
 #local Haze_color = <.40,.55,.60>; // Titan color  main haze layer [km]
-/* #local Haze_color = <1.,.5,.0>; // Titan color  main haze layer [km] */
 
 // Detached haze
 #local DHL_bot   =        400; // Titan bottom detached haze layer [km]
